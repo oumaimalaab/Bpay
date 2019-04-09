@@ -26,6 +26,7 @@ protected String Numero;
 	protected String Mom;
 	protected String Prenom;
 	protected boolean Etat;
+	protected Collection <Facture> Factures_recus;
 	
 	
 	// NIVEAU AND CLIENT ANNOTATIONS ARE DONE  
